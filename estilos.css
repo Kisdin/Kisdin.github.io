@@ -51,6 +51,9 @@ body {
     margin-right: 20px;
   }
   
+  p {
+    color: #f8f8f8;
+  }
   /* Estilos para los artículos */
   .articulo {
     background-color: #f8f8f8;
@@ -120,4 +123,8 @@ body {
 
   .nosedos img{
     width: 100%;
+  }
+
+  * {
+    background-color: #24252A;
   }
