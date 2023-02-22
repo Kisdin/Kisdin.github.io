@@ -125,6 +125,10 @@ body {
     width: 100%;
   }
 
+  .nosetres img{
+    width: 100%;
+  }
+
   * {
     background-color: #24252A;
   }
